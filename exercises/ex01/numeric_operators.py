@@ -1,4 +1,4 @@
-""" Program to demonstrate numerical operators in Python."""
+"""Program to demonstrate numerical operators in Python."""
 __author__ = "730478650"
 
 left_side: int = int(input("Left-hand side: "))
