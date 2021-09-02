@@ -29,4 +29,3 @@ else:
             if(rand == 4):
                 print("You will conquer your obstacles!")
 print("Now, go spread positive vibes!")
-
