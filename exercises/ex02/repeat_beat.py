@@ -8,7 +8,7 @@ counter: int = 0
 beat: str = input("What beat do you want to repeat? ")
 maximum: int = int(input("How many times do you want to repeat it? "))
 output: str = ""
-if maximum == 0:
+if maximum <= 0:
     print("No beat...")
 else:
     while counter < maximum:
